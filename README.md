@@ -1,4 +1,4 @@
-# Geemap Exploration
+# EE Exploration
 
 ### Mainly used for
 
