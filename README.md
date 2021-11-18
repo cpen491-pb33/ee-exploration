@@ -2,5 +2,5 @@
 
 ### Mainly used for
 
-- Play with geemap examples
-- Make adjustments so that geemap can fit in our project
+- Play with ee and geemap examples
+- Make adjustments so that ee and geemap can fit in our project
